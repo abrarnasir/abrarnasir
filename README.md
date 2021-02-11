@@ -1,5 +1,4 @@
 ### Hi there, I'm Abrar! 👋
-(he/him)
 
 - 🏫 Studying Economics at the [University of Toronto](https://www.utoronto.ca)
 - 📊 Data analyst and full-time tech enthusiast
