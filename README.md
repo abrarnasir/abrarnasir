@@ -1,4 +1,4 @@
-## Hi there, I'm Abrar! 👋
+### Hi there, I'm Abrar! 👋
 ![](https://komarev.com/ghpvc/?username=abrarnasir)
 
 - 🏫 Studying Economics at the [University of Toronto](https://www.utoronto.ca)
