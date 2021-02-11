@@ -6,4 +6,4 @@
 - 👨🏻‍🏫 Currently, tutoring **data analytics using Python** to university students & A Level Economics to high school students
 
 ---
-### Find me on [Twitter](https://twitter.com/MdAbrarNasir). 📫
+### Find me on [LinkedIn](https://www.linkedin.com/in/abrarnasir/). 📫
